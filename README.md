@@ -1,13 +1,12 @@
 ### Hi there 👋
-I'm a QA Automation engineer, with **<span id="experience"></span> years of experience**.
+My name is Pavel
+I'm a QA Automation engineer.
+Started back in 2008 and worked with various programming languages and technologies.
 
-<script>
-  const startDate = new Date('2008-01-01');
-  const currentDate = new Date();
-  const diffTime = Math.abs(currentDate - startDate);
-  const diffYears = Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365));
-  document.getElementById('experience').innerHTML = diffYears;
-</script>
+- 🔭 I’m currently looking for a new career oppurtunity, so if you are looking for a help to build QA for your company, reach out to me on LinkedIn
+- 💬 Ask me about QA, QA Automation, or anything else. I'll try my best to help you.
+- 📫 How to reach me: [LinkedIn](https://strongin.qa)
+
 
 [![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoHuK&count_private=true&theme=radical)]
 
