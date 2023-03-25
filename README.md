@@ -5,10 +5,10 @@ Started back in 2008 and worked with various programming languages and technolog
 
 - 🔭 I’m currently looking for a new career oppurtunity, so if you are looking for a help to build QA for your company, reach out to me on LinkedIn
 - 💬 Ask me about QA, QA Automation, or anything else. I'll try my best to help you.
-- 📫 How to reach me: [LinkedIn](https://strongin.qa)
+- 📫 How to reach out to me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://strongin.qa)
 
 
-[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoHuK&count_private=true&theme=radical)]
+[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoHuK&count_private=true&hide_border=true&layout=compact&theme=radical)]<img height="180em" src="https://github-readme-stats-phi-opal.vercel.app/api/top-langs/?username=CoHuK&show_icons=true&hide_border=true&layout=compact&count_private=true&langs_count=8&theme=radical"/>
 
 <!--
 **CoHuK/CoHuK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
