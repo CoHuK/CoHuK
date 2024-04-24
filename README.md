@@ -3,7 +3,7 @@ My name is Pavel
 I'm a QA Automation engineer.
 Started back in 2008 and worked with various programming languages and technologies.
 
-- 🔭 ~~I’m currently looking for a new career oppurtunity, so~~ if you are looking for a help to build QA for your company, reach out to me on LinkedIn
+- 🔭 I’m currently looking for a new career opportunity, so if you are looking for help to build QA for your company, reach out to me on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://strongin.qa)
 - 💬 Ask me about QA, QA Automation, or anything else. I'll try my best to help you.
 - 📫 How to reach out to me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://strongin.qa)
 
